@@ -29,7 +29,7 @@ The script will return any of the responses according to the situation:
 ```json
 { "success": false, "message": "Invalid email provided" }
 ```
-- If email already exists
+- If email already exists:
 ```json
 { "success": false, "message": "Email already exists" }
 ```
