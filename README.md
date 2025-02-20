@@ -25,7 +25,7 @@ The script will return any of the responses according to the situation:
 ```json
 { "success": true, "message": "Email added successfully" }
 ```
-- If the email is invalid or already exists:
+- If the email is invalid:
 ```json
 { "success": false, "message": "Invalid email provided" }
 ```
